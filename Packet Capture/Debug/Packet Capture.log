@@ -1,0 +1,29 @@
+﻿  ConsoleLogger.cpp
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(7,9): warning C4068:  알 수 없는 pragma입니다.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(13,17): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(43,36): error C3867:  'PacketCapture::Handler': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(130,21): warning C4244:  '초기화 중': 'ULONGLONG'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(124,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(132,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(136,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  'strcat' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(167,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(171,1): warning C4996:  'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message :  'getenv' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(174,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(211,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(225,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(301,1): warning C4996:  '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1400): message :  '_vsnprintf' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(492,1): warning C4996:  '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1400): message :  '_vsnprintf' 선언을 참조하십시오.
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\ConsoleLogger.cpp(521,1): warning C4996:  '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Main.cpp
+  코드를 생성하고 있습니다...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1400): message :  '_vsnprintf' 선언을 참조하십시오.

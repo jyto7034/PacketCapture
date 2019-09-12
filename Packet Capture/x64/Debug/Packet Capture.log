@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Sub.cpp
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\Main.h(3,10): error C1083:  포함 파일을 열 수 없습니다. 'pcap.h': No such file or directory
+  코드를 생성하고 있습니다...
+C:\Users\BlasterDinray\source\repos\Packet Capture\Packet Capture\Sub.cpp(2,10): error C1083:  포함 파일을 열 수 없습니다. 'pcap.h': No such file or directory
